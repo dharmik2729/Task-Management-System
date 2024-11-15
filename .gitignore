@@ -1,3 +1,5 @@
 node_modules
 node_modules/
-!my-app/
+my-app/node_modules/
+my-app/.env
+# Avoid ignoring all files in the my-app directory
